@@ -1,6 +1,7 @@
 import "./css/main.css";
 import DisplayTodos from "./components/DisplayTodos";
 import Todos from "./components/Todos";
+import React from "react";
 
 import { motion } from "framer-motion";
 function App() {
